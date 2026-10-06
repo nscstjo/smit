@@ -1,0 +1,4 @@
+# Standard upstream DVB dependencies plus the unchanged project driver.
+obj-m += drivers/media/dvb-core/
+obj-m += drivers/media/usb/dvb-usb-v2/
+obj-m += driver/
